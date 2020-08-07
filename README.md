@@ -33,3 +33,5 @@ TODO <link to calendar>
 ### OS Fuzzing
 
 ### DAST scanning and web application definition
+
+### CodeQL rules

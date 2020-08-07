@@ -1,10 +1,13 @@
-# OSSF Project/WG Template
+# OSSF Security Tooling
 
 Anyone is welcome to join our open discussions related to the group's mission and charter.
 
 ## Objective
 
-Our objective to make enlightening open source security dashboards!
+Our mission is to provide the best security tools for open source developers
+and make them universally accessible. We want to create a space where members
+can collaborate together to improve upon existing security tooling and develop
+new ones to suit the needs of the broader open source community.
 
 ## Vision
 
@@ -16,9 +19,17 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 ## Communications
 
-* [Meeting Minutes](https://docs.google.com/document/d/1uXQI1vI5_HyOvxHMexrnTY_ruBrynbPl5yOd1UM4g3A/edit#heading=h.yworp6sxzb6g)
+* [Meeting Minutes](https://docs.google.com/document/d/1JaHE-MV53aXFncYb0w4Zow6d4LjzVH-diOYseyYDaw0/edit#heading=h.d27qu7flhpvz)
 * TODO email list, github discussion
 
 ## Meeting times
 
-<link to calendar>
+TODO <link to calendar>
+
+## Active projects
+
+### CVE benchmarking initiative
+
+### OS Fuzzing
+
+### DAST scanning and web application definition

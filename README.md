@@ -34,4 +34,7 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 ### DAST scanning and web application definition
 
+* Lead: Simon Bennetts
+* [Web Application Definition 1.0.0](https://github.com/ossf/wg-security-tooling/wiki/WebAppDefn)
+
 ### CodeQL rules

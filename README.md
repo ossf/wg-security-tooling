@@ -24,7 +24,7 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 ## Meeting times
 
-[Google Meet](https://meet.google.com/jgy-nenx-aok) every other Tuesday at 16:00 GTM from Aug 11 TODO <link to calendar>
+[Google Meet](https://meet.google.com/jgy-nenx-aok) every other Tuesday at 16:00 GMT from Aug 11 TODO <link to calendar>
 
 ## Active projects
 

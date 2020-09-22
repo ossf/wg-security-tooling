@@ -20,7 +20,7 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 ## Communications
 
 * [Meeting Minutes](https://docs.google.com/document/d/1JaHE-MV53aXFncYb0w4Zow6d4LjzVH-diOYseyYDaw0/edit#heading=h.d27qu7flhpvz)
-* TODO email list, github discussion
+* [Mailing list](https://lists.openssf.org/g/openssf-wg-security-tooling). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 
 ## Meeting times
 

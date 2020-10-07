@@ -30,7 +30,9 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 ### CVE benchmarking initiative
 
-### OS Fuzzing
+### OSS Fuzzing
+* [OSS-Fuzz: Continuous fuzzing for open source software](https://github.com/google/oss-fuzz)
+* [FuzzBench: Fuzzer Benchmarking As a Service](https://github.com/google/fuzzbench)
 
 ### DAST scanning and web application definition
 

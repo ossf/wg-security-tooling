@@ -26,3 +26,6 @@ Each project could have their own guidelines, so please, check for specific proj
     * You can verify this by trying to exploit the vulnerability. If you cannot exploit it, please, think twice before reporting it.
 * Use search engines in order to try to identify if other people have already identified what you have found, and it is a known functionality or issue.
 * If you found the vulnerability by executing a tool, try to verify manually the existence of the vulnerability. Security tools give false positives sometimes.
+* After you have researched the potential vulnerability, and gathered valuable information about it, it's time to report it.
+    * Please, always look for information about how to report security vulnerabilities for each project.
+    * Reporting it in a public list or repository (e.g. Github issue) is not a good idea since you may be putting at risk information assets.

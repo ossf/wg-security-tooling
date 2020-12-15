@@ -31,7 +31,7 @@ The meeting invite is available on the public [OSSF calendar](https://calendar.g
 ## Active projects
 
 ### CVE benchmarking initiative
-* The CVE benchmarking initiative will be announced in detail at [BlackHat Europe 2020](https://www.blackhat.com/eu-20/briefings/schedule/#fps-are-cheap-show-me-the-cves-21345). The talk will be presented by [Bas van Schaik](https://github.com/sj) and [Kevin Backhouse](https://github.com/kevinbackhouse).
+* The [CVE benchmarking initiative](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark) was announced at [BlackHat Europe 2020](https://www.blackhat.com/eu-20/briefings/schedule/#fps-are-cheap-show-me-the-cves-21345), presented by [Bas van Schaik](https://github.com/sj) and [Kevin Backhouse](https://github.com/kevinbackhouse).
 
 ### OSS Fuzzing
 * [OSS-Fuzz: Continuous fuzzing for open source software](https://github.com/google/oss-fuzz)

@@ -24,7 +24,7 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 ## Meeting times
 
-[Google Meet](https://meet.google.com/jgy-nenx-aok) every other Tuesday at 16:00 GMT from Aug 11. 
+[Google Meet](https://meet.google.com/nid-mxeg-xwt) every other Tuesday at 16:00 GMT from Aug 11. 
 
 The meeting invite is available on the public [OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 

@@ -175,13 +175,41 @@ The term Dynamic Application Security Testing, or DAST, is often seen in literat
 * For some, DAST is dynamic analysis for finding vulnerabilities in just web applications, making DAST the same as a web application scanner.
 * For others, DAST includes web application scanners and fuzzers for programs other than web applications.
 
-## Other tool types
+## Other tool types and categorizations
 
 There are many other kinds of tools that can be used for security.
 We have intentionally selected the most common kinds that are widely
 applicable, so that you can get started.
 
-## Acknowlegments
+There are many ways to categorize tools.
+Here are a few such lists:
+
+* [*Secure Software Development Fundamentals* course materials](https://github.com/ossf/secure-sw-dev-fundamentals) [Fundamentals]
+* [State-of-the-Art Resources (SOAR)](https://www.ida.org/research-and-publications/publications/all/s/st/stateoftheart-resources-soar-for-software-vulnerability-detection-test-and-evaluation-2016)
+  including its [appendix E](https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx?la=en&hash=EA54CA1AD767003FB71FFAA2653978D3) with
+  guidance on which tools are better for which objectives [SOAR]
+* [NIST “Classes of tools & techniques” [NIST Tools]]((http://samate.nist.gov/index.php/Tool_Survey.html)
+* [OWASP's "Free for Open Source Application Security Tools" list]((https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
+  [OWASP Tools]
+
+## Bibliography
 
 Much of this material is from the
-*Secure Software Development Fundamentals* course materials.
+*Secure Software Development Fundamentals* course materials [Fundamentals].
+
+[CAS]
+[CAS Static Analysis Tool Study -Methodology](https://samate.nist.gov/docs/CAS%202012%20Static%20Analysis%20Tool%20Study%20Methodology.pdf)
+
+[Fundamentals]
+[*Secure Software Development Fundamentals* course materials, 2020](https://github.com/ossf/secure-sw-dev-fundamentals)
+
+[NIST Tools]
+[“Classes of tools & techniques”](http://samate.nist.gov/index.php/Tool_Survey.html)
+
+[OWASP Tools]
+[OWASP's "Free for Open Source Application Security Tools" list](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
+
+[SOAR]
+[State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation 2016 (aka “Software SOAR”) by David A. Wheeler and Amy E. Henninger, Institute for Defense Analyses (Report P-8005), November 2016](https://www.ida.org/research-and-publications/publications/all/s/st/stateoftheart-resources-soar-for-software-vulnerability-detection-test-and-evaluation-2016),
+including its
+[Appendix E](https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx?la=en&hash=EA54CA1AD767003FB71FFAA2653978D3)

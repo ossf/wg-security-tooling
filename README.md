@@ -43,3 +43,6 @@ The meeting invite is available on the public [OSSF calendar](https://calendar.g
 * [Web Application Definition 1.0.0](https://github.com/ossf/wg-security-tooling/wiki/WebAppDefn)
 
 ### CodeQL rules
+
+### Verification of findings initiative
+* One way of helping open source projects is analyzing them with these security tools. However, please, never send just the output of a security tool to an open source maintainer. The will need to invest a lot of time just to understand and triage the potential vulnerability. If you really want to help, try to follow this [guidelines](https://github.com/ossf/wg-security-tooling/publications/guidelines.md).

@@ -1,14 +1,14 @@
 # Technical Charter for Open Source Security Foundation
 
-[COMMUNITY NAME - Working Group | Technical Initiative]
+[Security Tooling - Working Group]
 
-Adopted [DATE]
+Adopted April 6th, 2021
 
-This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the [COMMUNITY NAME] open source community, which has been established as a [Working Group | Technical Initiative] (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
+This Technical Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Security Tooling WG open source community, which has been established as a Working Group (the "Technical Initiative") under the Open Source Security Foundation (the “OpenSSF”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Technical Initiative (collectively, “Collaborators”) must comply with the terms of this Technical Charter and the OpenSSF Charter. 
 
 #### 1. Mission and Scope of the Technical Initiative
 
-- a. The mission of the Technical Initiative is to [MISSION STATEMENT].
+- a. The mission of the Technical Initiative is to Identify, Evaluate, Improve, Develop & Ease Deployment of universally-accessible, developer focused tooling to help the open source community secure their code.  This space allows members to collaborate together on these goals.
 
 - b. The scope of the Technical Initiative includes collaborative development under the Technical Initiative License (as defined herein) supporting the mission, including organizing collaboration activities, defining best practices, documentation, testing, integration, and the creation of other artifacts that support the mission.
 

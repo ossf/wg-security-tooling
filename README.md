@@ -32,7 +32,7 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 ## Meeting times
 
-[Zoom](https://zoom.us/j/93752451148?pwd=WW5YaHJuMW1MUFNnazV4WVhTRDlqZz09) every other Tuesday at 16:00 GMT from Aug 11.
+[Zoom](https://zoom.us/j/96055397788?pwd=bzFxYjNrUTZvNDFLdjVCZHQyWDhNdz09) every other Tuesday at 16:00 GMT from Aug 11.
 
 The meeting invite is available on the public [OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 

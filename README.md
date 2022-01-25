@@ -46,7 +46,7 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 
 ### Guide
 
-* [Guide to Security Tools](https://github.com/ossf/wg-security-tooling)
+* [Guide to Security Tools](https://github.com/ossf/wg-security-tooling/blob/main/guide.md)
 
 ### CVE benchmarking initiative
 * The [CVE benchmarking initiative](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark) was announced at [BlackHat Europe 2020](https://www.blackhat.com/eu-20/briefings/schedule/#fps-are-cheap-show-me-the-cves-21345), presented by [Bas van Schaik](https://github.com/sj) and [Kevin Backhouse](https://github.com/kevinbackhouse).

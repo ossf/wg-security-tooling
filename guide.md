@@ -188,8 +188,8 @@ Here are a few such lists:
 * [State-of-the-Art Resources (SOAR)](https://www.ida.org/research-and-publications/publications/all/s/st/stateoftheart-resources-soar-for-software-vulnerability-detection-test-and-evaluation-2016)
   including its [appendix E](https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx?la=en&hash=EA54CA1AD767003FB71FFAA2653978D3) with
   guidance on which tools are better for which objectives [SOAR]
-* [NIST “Classes of tools & techniques” [NIST Tools]]((http://samate.nist.gov/index.php/Tool_Survey.html)
-* [OWASP's "Free for Open Source Application Security Tools" list]((https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
+* [NIST “Classes of tools & techniques” [NIST Tools]](http://samate.nist.gov/index.php/Tool_Survey.html)
+* [OWASP's "Free for Open Source Application Security Tools" list](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
   [OWASP Tools]
 
 ## Bibliography

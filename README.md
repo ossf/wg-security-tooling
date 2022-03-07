@@ -24,6 +24,8 @@ Our vision is to improve the perception of security in open source software.
 
 The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
+This group is chaired by Josh Bressers (@joshbressers).
+
 ## Communications
 
 * [Meeting Minutes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#)

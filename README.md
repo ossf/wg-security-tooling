@@ -57,6 +57,7 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 * Fuzzing Collaboration subgroup - focuses on improving fuzzing
   - Meets montly starting 2022-01-04 at 10:30am Pacific Time (see the OpenSSF calendar) via [this Zoom link](https://zoom.us/j/99960722134?)
   - [Meeting notes](https://docs.google.com/document/d/1u4_vL0UK69C7D3qatP9Q6gjGX1PMJjWnO4-3F4pJ0oo/edit#)
+  - Has its own [fuzzing-collaboration mailing list on Google Groups](https://groups.google.com/g/fuzzing-collaboration)
 * [Fuzz-introspector](https://github.com/ossf/fuzz-introspector/) -  a tool to help fuzzer developers to get an understanding of their fuzzer’s performance and identify any potential blockers.
 
 ### DAST scanning and web application definition

@@ -54,12 +54,19 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 * The [CVE benchmarking initiative](https://github.com/ossf-cve-benchmark/ossf-cve-benchmark) was announced at [BlackHat Europe 2020](https://www.blackhat.com/eu-20/briefings/schedule/#fps-are-cheap-show-me-the-cves-21345), presented by [Bas van Schaik](https://github.com/sj) and [Kevin Backhouse](https://github.com/kevinbackhouse).
 
 ### OSS Fuzzing
-* [OSS-Fuzz: Continuous fuzzing for open source software](https://github.com/google/oss-fuzz)
-* [FuzzBench: Fuzzer Benchmarking As a Service](https://github.com/google/fuzzbench)
+* Fuzzing Collaboration subgroup - focuses on improving fuzzing
+  - Meets montly starting 2022-01-04 at 10:30am Pacific Time (see the OpenSSF calendar) via [this Zoom link](https://zoom.us/j/99960722134?)
+  - [Meeting notes](https://docs.google.com/document/d/1u4_vL0UK69C7D3qatP9Q6gjGX1PMJjWnO4-3F4pJ0oo/edit#)
+* [Fuzz-introspector](https://github.com/ossf/fuzz-introspector/) -  a tool to help fuzzer developers to get an understanding of their fuzzer’s performance and identify any potential blockers.
 
 ### DAST scanning and web application definition
 * Lead: Simon Bennetts
 * [Web Application Definition 1.0.0](https://github.com/ossf/wg-security-tooling/wiki/WebAppDefn)
+
+## Related non-OpenSSF work
+
+* [OSS-Fuzz: Continuous fuzzing for open source software](https://github.com/google/oss-fuzz)
+* [FuzzBench: Fuzzer Benchmarking As a Service](https://github.com/google/fuzzbench)
 
 ### CodeQL rules
 * Coming

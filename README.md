@@ -46,6 +46,10 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 
 ## Active projects
 
+### (DRAFT) False Positive Suppression Specification 
+
+* [(DRAFT) False Positive Suppression Specification](https://docs.google.com/document/d/1811qanC8h9egv3Iszn_rrXGtAoSCz0YJGzp9vACjjH8/edit#) (Sandbox DRAFT)
+
 ### Guide
 
 * [Guide to Security Tools](https://github.com/ossf/wg-security-tooling/blob/main/guide.md)

@@ -46,6 +46,11 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 
 ## Active projects
 
+### SBOM Everywhere SIG
+
+* [SBOM Everywhere Google Drive folder](https://drive.google.com/drive/folders/154MCLeIOQEgPpTUL7yzplOiipBVJ5KZJ)
+* [Mailing list](https://lists.openssf.org/g/openssf-sig-sbom)
+
 ### (DRAFT) False Positive Suppression Specification 
 
 * [(DRAFT) False Positive Suppression Specification](https://docs.google.com/document/d/1811qanC8h9egv3Iszn_rrXGtAoSCz0YJGzp9vACjjH8/edit#) (Sandbox DRAFT)

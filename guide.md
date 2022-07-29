@@ -58,6 +58,8 @@ Some tools are open source software (OSS), while others are proprietary. Some of
 
 ## Types of Tools
 
+This section will cover some of the most common application security tools including linters, SAST, SCA, DAST, Fuzzers, Hard Coded Secrets Detectors, and SBOM generators. 
+
 ### Quality scanners (linters)
 
 Quality scanners, also called "linters", examine source code,
@@ -85,13 +87,29 @@ The patterns are generally heuristic, and different tools generally look for dif
 
 ### Secret scanning tools
 
-Secret scanning tools look for secrets, typically in a repository's
-code and/or configuration. These are typically static analysis tools.
+Secret scanning tools look for secrets (passwords, stored keys, etc.), typically in a repository's
+code and/or configuration. These are typically static analysis tools. These tools typlically detect the secrets in code by grepping (simple text based searching) or regex searches. 
 
 Some secret scanning is automatically done on projects hosted on
 [GitHub](https://docs.github.com/en/code-security/secret-security/about-secret-scanning) and
 [GitLab](https://docs.gitlab.com/ee/user/application_security/secret_detection/).
 
+
+### Software Build Of Materials (SBOM) tools
+
+A Software Build Of Materials (SBOM) is an artifact that may accompany the release of a software package. The SBOM includes an inventory of the software components and dependencies that are included in a parent software. This may include both open source and proprietary components and dependecies. It may also include additional information such as more indepth package information, file information, licensing, authors, contributors, security checksums or references, copyright information, as well as their hierarchical relationships.
+
+Machine-readable formats for SBOMs grant the opportunity for this information to be shared throughout the software supply chain; thus increasing transparency of and confidence in the final delivered sofware artifact. The machine readable formats for SBOMs currently include [SPDX](https://spdx.github.io/spdx-spec/), [CycloneDX](https://cyclonedx.org/), and SWID.
+
+SBOMs are quickly becoming a necessity for software products and services to include in their software delivery practices. SBOMs are being recommended by several security frameworks, organizations, and security requirements such as the [White House Executive Order 14028](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/), [NIST](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1), [NTIA](https://www.ntia.gov/SBOM),the [OpenSSF Mobilzation Plan](https://openssf.org/oss-security-mobilization-plan/), and [SLSA](https://slsa.dev/). 
+
+For tooling, there are differenct SBOM tool classifications as outlined by the [NTIA](https://www.ntia.gov/files/ntia/publications/ntia_sbom_tooling_taxonomy-2021mar30.pdf). There are tools that produce, consume, and transform SBOMs. The taxonmy outlines specific types of activities in each category thus allowing for the comparison of SBOM tool coverage.  
+
+Tools that produce SBOMs may build, analyze, and/or edit. 
+Tools that consume SBOMs may view, diff, and/or import.
+Tools that transform SBOMs may translate, merge, and/or tool support.
+
+Tools may have a combination of categories and action types to provide multiple SBOM functions. 
 
 ### Software Component Analysis (SCA)/Dependency Analysis tools
 
@@ -99,7 +117,7 @@ Software component analysis (SCA) tools, also called
 dependency analysis or origin analysis tools,
 determine the reused components used by code (source code or executable).
 To be security-relevant, these tools also determine which of those
-reused components have publicly-known vulnerabilities.
+reused components have publicly-known vulnerabilities (CVEs).
 
 So, all an SCA tool has to do, in theory, is figure out what components (and their versions) are present, look up each one in one or more databases, and report on matches. Even detecting the components is not always easy; sometimes reused components are not obvious (e.g., because they were copy and pasted in, instead of being properly handled using a package manager). Even more fundamentally, however, databases are constantly updated as new vulnerabilities are found. That means that reused software that had no known vulnerabilities earlier might now have a known vulnerability. Even if the vulnerability was publicly known earlier, that fact might not have been recorded in earlier versions of the database(s) used by the tool. So these tools must be periodically rerun, or have the comparisons rerun, so that you become aware of newly-found vulnerabilities.
 

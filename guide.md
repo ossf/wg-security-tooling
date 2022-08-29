@@ -231,3 +231,6 @@ Much of this material is from the
 [State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation 2016 (aka “Software SOAR”) by David A. Wheeler and Amy E. Henninger, Institute for Defense Analyses (Report P-8005), November 2016](https://www.ida.org/research-and-publications/publications/all/s/st/stateoftheart-resources-soar-for-software-vulnerability-detection-test-and-evaluation-2016),
 including its
 [Appendix E](https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx?la=en&hash=EA54CA1AD767003FB71FFAA2653978D3)
+
+[NISTIR 8397] NISTIR 8397 Guidelines on Minimum Standards for Developer Verification of Software, Oct 2021
+https://doi.org/10.6028/NIST.IR.8397

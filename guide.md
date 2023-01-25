@@ -95,9 +95,9 @@ Some secret scanning is automatically done on projects hosted on
 [GitLab](https://docs.gitlab.com/ee/user/application_security/secret_detection/).
 
 
-### Software Build Of Materials (SBOM) tools
+### Software Bill Of Materials (SBOM) tools
 
-A Software Build Of Materials (SBOM) is an artifact that may accompany the release of a software package. The SBOM includes an inventory of the software components and dependencies that are included in a parent software. This may include both open source and proprietary components and dependencies. It may also include additional information such as more in-depth package information, file information, licensing, authors, contributors, security checksums or references, copyright information, as well as their hierarchical relationships.
+A Software Bill Of Materials (SBOM) is an artifact that may accompany the release of a software package. The SBOM includes an inventory of the software components and dependencies that are included in a parent software. This may include both open source and proprietary components and dependencies. It may also include additional information such as more in-depth package information, file information, licensing, authors, contributors, security checksums or references, copyright information, as well as their hierarchical relationships.
 
 Machine-readable formats for SBOMs grant the opportunity for this information to be shared throughout the software supply chain; thus increasing transparency of and confidence in the final delivered software artifact. The machine readable formats for SBOMs currently include [SPDX](https://spdx.github.io/spdx-spec/), [CycloneDX](https://cyclonedx.org/), and SWID.
 

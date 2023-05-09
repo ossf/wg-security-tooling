@@ -32,13 +32,17 @@ This group is chaired by Josh Bressers (@joshbressers).
 * [Mailing list](https://lists.openssf.org/g/openssf-wg-security-tooling). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 * [Slack](https://openssf.slack.com/archives/C019Q1VEA87)
 
-## Meeting times
+## Meeting Times
 
 [Zoom](https://zoom.us/j/96055397788?pwd=bzFxYjNrUTZvNDFLdjVCZHQyWDhNdz09) every other Tuesday at 16:00 GMT from Aug 11.
 
 The meeting invite is available on the public [OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-## Antitrust policy
+## Meeting Notes
+
+Meeting notes are maintained in a [Google Doc](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#). If attending please add your name, and if a returning attendee, please change the color of your name from gray to black.
+
+## Antitrust Policy Notice
 
 Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws.
 

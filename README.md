@@ -28,7 +28,7 @@ This group is chaired by Josh Bressers (@joshbressers).
 
 ## Communications
 
-* [Meeting Minutes](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#)
+* [Meeting Minutes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing)
 * [Mailing list](https://lists.openssf.org/g/openssf-wg-security-tooling). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 * [Slack](https://openssf.slack.com/archives/C019Q1VEA87)
 
@@ -40,7 +40,7 @@ The meeting invite is available on the public [OSSF calendar](https://calendar.g
 
 ## Meeting Notes
 
-Meeting notes are maintained in a [Google Doc](https://docs.google.com/document/d/1DoB7zgtLsP-JGF77ASkHV7UMofTE2wseniexaa6Q4M8/edit#). If attending please add your name, and if a returning attendee, please change the color of your name from gray to black.
+Meeting notes are maintained in a [Google Doc](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing). If attending please add your name, and if a returning attendee, please change the color of your name from gray to black.
 
 ## Antitrust Policy Notice
 
@@ -69,7 +69,7 @@ Examples of types of actions that are prohibited at Linux Foundation meetings an
 ### OSS Fuzzing
 * Fuzzing Collaboration subgroup - focuses on improving fuzzing
   - Meets montly starting 2022-01-04 at 10:30am Pacific Time (see the OpenSSF calendar) via [this Zoom link](https://zoom.us/j/99960722134?)
-  - [Meeting notes](https://docs.google.com/document/d/1u4_vL0UK69C7D3qatP9Q6gjGX1PMJjWnO4-3F4pJ0oo/edit#)
+  - [Meeting notes](https://docs.google.com/document/d/1TmhqYpB1Ly-5o-F31RVHxgpunW6qeDTVopBCtCmKhs0/edit?usp=sharing)
   - Has its own [fuzzing-collaboration mailing list on Google Groups](https://groups.google.com/g/fuzzing-collaboration)
 * [Fuzz-introspector](https://github.com/ossf/fuzz-introspector/) -  a tool to help fuzzer developers to get an understanding of their fuzzer’s performance and identify any potential blockers.
 

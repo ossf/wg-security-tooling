@@ -26,7 +26,7 @@ The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group acti
 
 This group is chaired by Josh Bressers (@joshbressers).
 
-## Communications
+## Get Involved
 
 * [Meeting Minutes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing)
 * [Mailing list](https://lists.openssf.org/g/openssf-wg-security-tooling). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).

@@ -34,7 +34,7 @@ This group is chaired by [Ryan Ware](https://github.com/ware).
 
 ## Meeting Times
 
-[Zoom](https://zoom.us/j/96055397788?pwd=bzFxYjNrUTZvNDFLdjVCZHQyWDhNdz09) every other Tuesday at 16:00 GMT from Aug 11.
+[Zoom](https://zoom-lfx.platform.linuxfoundation.org/meeting/94897563315?password=7f03d8e7-7bc9-454e-95bd-6e1e09cb3b0b) every other Friday at 16:00 GMT from Nov 17.
 
 The meeting invite is available on the public [OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 

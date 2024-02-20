@@ -129,6 +129,15 @@ Like all tools, SCAs are prone to false positives. In particular, a component ma
 
 There are lots of SCAs available. If you use GitHub or GitLab, they provide some basic SCA reporting of known vulnerabilities in many components for free (assuming that you use a standard package management format they can process). Linux Foundation projects can use [LFX Security](https://lfx.linuxfoundation.org/tools/security/) which provides this service. There are a variety of suppliers that provide or sell such tools. This includes OWASP Dependency Check (which is OSS), Sonatype’s Nexus products, Synopsys’ Black Duck, Ion Channel Solutions, and Snyk. Some package managers include this capability or have a plug-in for it (e.g. Ruby’s bundler has bundle-audit). This is definitely not a complete list, and no doubt you will want to compare the options.
 
+
+### Dependency Updating & Hygiene Tools
+
+SCA tools help identify the known vulnerable OSS components used in your project, but other tools exist to help ensure that OSS hygiene becomes an automated process. As required in the OpenSSF Secure Supply Chain Consumption Framework (S2C2F) maturity level 2, tools such as Dependabot or Renovate bot will auto-submit Pull Requests (PRs) to update your known-vulnerable dependencies. All a developer has to do is choose to accept the PR to keep their dependencies up-to-date.
+
+There are other tools that can help prevent developers from introducing a new dependency with a known vulnerability. This can be accomplished by tools that show vulnerabilities as comments in PRs, such as Dependency Review in GitHub. Assuming the repo has two-person code review enabled, this helps the reviewer realize that the submitter is introducing a dependency with known vulnerabilities, enabling the team to address the issue before the code is merged. 
+
+Each of these tools helps your developers improve their Mean Time To Remediate (MTTR) to update known vulnerable dependencies. If your team embraces tools with these capabilities, then there's a good chance that you can update faster than the adversaries can craft exploits. 
+
 ### Traditional testing
 
 The best-known dynamic analysis approach is traditional testing. You select specific inputs to send to a program, and check to see if the result is correct. You can test specific parts of a program, such as a method or function (this is called unit testing). You can also send sequences of inputs to the system integrated as a whole (integration testing). Most people combine unit and integration testing. Unit testing is fast and it can be easy to test many special cases, but unit testing often misses whole-system problems that integration testing is much more likely to detect. Since computers are much faster than they were decades ago, it is often best to focus on integration testing over unit testing, but both approaches have their place. The testing literature describes other kinds of testing, but for our purposes, these two approaches are enough to understand the issues.

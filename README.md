@@ -28,7 +28,8 @@ This group is chaired by [Ryan Ware](https://github.com/ware).
 
 ## Get Involved
 
-* [Meeting Minutes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing)
+* [Current Meeting Minutes](https://docs.google.com/document/d/1bFpHEbbEUf2rWiYXQY7cGg1HrmI9TqwaD8U_3Hi9A8I/edit#heading=h.wdz394z3k3h2)
+* [Previous Meeting Minutes](https://docs.google.com/document/d/1jzxhzIfkOMTagpeFWYoZpMKwHYeO4Gc7Eq5FcMFEw2c/edit?usp=sharing)
 * [Mailing list](https://lists.openssf.org/g/openssf-wg-security-tooling). [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups).
 * [Slack](https://openssf.slack.com/archives/C019Q1VEA87)
 

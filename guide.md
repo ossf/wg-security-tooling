@@ -136,6 +136,8 @@ SCA tools help identify the known vulnerable OSS components used in your project
 
 There are other tools that can help prevent developers from introducing a new dependency with a known vulnerability. This can be accomplished by tools that show vulnerabilities as comments in PRs, such as Dependency Review in GitHub. Assuming the repo has two-person code review enabled, this helps the reviewer realize that the submitter is introducing a dependency with known vulnerabilities, enabling the team to address the issue before the code is merged. 
 
+Registry-backed gates can also detect dependency names that do not exist or were published too recently to meet a project's policy. [SlopLock](https://github.com/theinfosecguy/sloplock) is an open source CLI and GitHub Action that performs these checks across eight public registries.
+
 Each of these tools helps your developers improve their Mean Time To Remediate (MTTR) to update known vulnerable dependencies. If your team embraces tools with these capabilities, then there's a good chance that you can update faster than the adversaries can craft exploits. 
 
 ### Traditional testing

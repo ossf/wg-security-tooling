@@ -101,7 +101,7 @@ A Software Bill Of Materials (SBOM) is an artifact that may accompany the releas
 
 Machine-readable formats for SBOMs grant the opportunity for this information to be shared throughout the software supply chain; thus increasing transparency of and confidence in the final delivered software artifact. The machine readable formats for SBOMs currently include [SPDX](https://spdx.github.io/spdx-spec/), [CycloneDX](https://cyclonedx.org/), and SWID.
 
-SBOMs are quickly becoming a necessity for software products and services to include in their software delivery practices. SBOMs are being recommended by several security frameworks, organizations, and security requirements such as the [White House Executive Order 14028](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/), [NIST](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1), [NTIA](https://www.ntia.gov/SBOM),the [OpenSSF Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/), and [SLSA](https://slsa.dev/). 
+SBOMs are quickly becoming a necessity for software products and services to include in their software delivery practices. SBOMs are being recommended by several security frameworks, organizations, and security requirements such as the [White House Executive Order 14028](https://web.archive.org/web/20250120163602/https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/), [NIST](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1), [NTIA](https://www.ntia.gov/SBOM),the [OpenSSF Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/), and [SLSA](https://slsa.dev/). 
 
 For tooling, there are different SBOM tool classifications as outlined by the [NTIA](https://www.ntia.gov/files/ntia/publications/ntia_sbom_tooling_taxonomy-2021mar30.pdf). There are tools that produce, consume, and transform SBOMs. The taxonomy outlines specific types of activities in each category thus allowing for the comparison of SBOM tool coverage.  
 
@@ -213,7 +213,7 @@ Here are a few such lists:
 
 * [*Secure Software Development Fundamentals* course materials](https://github.com/ossf/secure-sw-dev-fundamentals) [Fundamentals]
 * [State-of-the-Art Resources (SOAR)](https://www.ida.org/research-and-publications/publications/all/s/st/stateoftheart-resources-soar-for-software-vulnerability-detection-test-and-evaluation-2016)
-  including its [appendix E](https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx?la=en&hash=EA54CA1AD767003FB71FFAA2653978D3) with
+  including its [appendix E](https://web.archive.org/web/20200124183550/https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx) with
   guidance on which tools are better for which objectives [SOAR]
 * [NIST “Classes of tools & techniques” [NIST Tools]](http://samate.nist.gov/index.php/Tool_Survey.html)
 * [OWASP's "Free for Open Source Application Security Tools" list](https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools)
@@ -225,7 +225,7 @@ Much of this material is from the
 *Secure Software Development Fundamentals* course materials [Fundamentals].
 
 [CAS]
-[CAS Static Analysis Tool Study -Methodology](https://samate.nist.gov/docs/CAS%202012%20Static%20Analysis%20Tool%20Study%20Methodology.pdf)
+[CAS Static Analysis Tool Study -Methodology](https://web.archive.org/web/20250206082432/https://samate.nist.gov/docs/CAS%202012%20Static%20Analysis%20Tool%20Study%20Methodology.pdf)
 
 [Fundamentals]
 [*Secure Software Development Fundamentals* course materials, 2020](https://github.com/ossf/secure-sw-dev-fundamentals)
@@ -239,7 +239,7 @@ Much of this material is from the
 [SOAR]
 [State-of-the-Art Resources (SOAR) for Software Vulnerability Detection, Test, and Evaluation 2016 (aka “Software SOAR”) by David A. Wheeler and Amy E. Henninger, Institute for Defense Analyses (Report P-8005), November 2016](https://www.ida.org/research-and-publications/publications/all/s/st/stateoftheart-resources-soar-for-software-vulnerability-detection-test-and-evaluation-2016),
 including its
-[Appendix E](https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx?la=en&hash=EA54CA1AD767003FB71FFAA2653978D3)
+[Appendix E](https://web.archive.org/web/20200124183550/https://www.ida.org/-/media/feature/publications/s/st/stateoftheart-resources-soar-for-software-vulnerability-spreadsheet/p-8005-soar-app-e.ashx)
 
 [NISTIR 8397] NISTIR 8397 Guidelines on Minimum Standards for Developer Verification of Software, Oct 2021
 https://doi.org/10.6028/NIST.IR.8397

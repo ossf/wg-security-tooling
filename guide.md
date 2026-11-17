@@ -111,6 +111,14 @@ Tools that transform SBOMs may translate, merge, and/or tool support.
 
 Tools may have a combination of categories and action types to provide multiple SBOM functions. 
 
+Some projects that provide these functions, each described in its own words:
+
+* [protobom](https://github.com/protobom/protobom) — "A universal SBOM representation in protocol buffers." It is the format-neutral layer other tools build on: translate, merge and edit SBOMs without picking SPDX or CycloneDX as the internal format (transform).
+* [bomctl](https://github.com/bomctl/bomctl) — "format-agnostic SBOM tooling", intended "to bridge the gap between SBOM generation and SBOM analysis tools", built for operating on many SBOM files at once rather than one at a time (consume and transform).
+* [SBOMit](https://github.com/sbomit/sbomit) — "Generate Software Bill of Materials (SBOMs) from Witness attestations", in SPDX or CycloneDX (produce).
+* [Minder](https://github.com/mindersec/minder) — a "Software Supply Chain Security Platform". It applies policy to the artifacts and provenance a build produces; it does not generate SBOMs itself, so it is listed as the consumer side of the chain.
+
+
 ### Software Component Analysis (SCA)/Dependency Analysis tools
 
 Software component analysis (SCA) tools, also called
